@@ -1,1 +1,2 @@
 Ini latihan git RPL
+Percobaan pertama
